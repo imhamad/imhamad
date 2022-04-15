@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamad</h1>
-<h3 align="center">Front End Engineer & Acquia Certified Drupal 8 & 9 Site Builder</h3>
+<h3 align="center">Front End Engineer `~` Acquia Certified Drupal 8 & 9 Site Builder</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imhamad" alt="imhamad" /></a> </p>
 
