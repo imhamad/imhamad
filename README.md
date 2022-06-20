@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://imhamad.com/](https://imhamad.com/)
 
-- 💬 Ask me about **bootstrap, drupal**
+- 💬 Ask me about **bootstrap, scss, fed, drupal, product mvp**
 
 - 📫 How to reach me **hamad@netchainmedia.com**
 
