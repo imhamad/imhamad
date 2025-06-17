@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamad</h1>
 <h3 align="center">Front End Engineer | SCSS | Tailwind | ReactJS | Acquia Certified Drupal 8 & 9 Site Builder</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imhamad" />
-</p>
-
 <p align="left">
   I’m Hamad — a Front‑End Engineer crafting clean, responsive interfaces with a focus on performance and accessibility. Skilled in SCSS, TailwindCSS, Bootstrap, React, and Vue.js.
 </p>
@@ -18,14 +14,18 @@
 </p>
 
 <p align="center">
-  <img src="https://dev.acquia.com/sites/default/files/images/Acquia%20Certification%20Badge_Drupal%208%20Site%20Builder.svg" height="100" alt="Acquia Certified Drupal 8 Site Builder" />
-  <img src="https://prometsource.com/wp-content/uploads/2023/01/acquia-certified-site-builder-drupal-9.png" height="100" alt="Acquia Certified Drupal 9 Site Builder" />
+  <img src="[https://dev.acquia.com/sites/default/files/images/Acquia%20Certification%20Badge_Drupal%208%20Site%20Builder.svg](https://camo.githubusercontent.com/7fa778e037922460cbae247c908ea1a3d06dced9ad736b4cbeb2bd118c4bf39f/68747470733a2f2f6465762e6163717569612e636f6d2f73697465732f64656661756c742f66696c65732f323032342d30352f41637175696125323043657274696669636174696f6e25323042616467655f44727570616c253230536974652532304275696c6465725f44727570616c253230392e737667)" height="100" alt="Acquia Certified Drupal 8 Site Builder" />
+  <img src="[https://prometsource.com/wp-content/uploads/2023/01/acquia-certified-site-builder-drupal-9.png](https://dev.acquia.com/sites/default/files/images/Acquia%252520Certification%252520Badge_Drupal%252520Site%252520Builder_Drupal%2525209_0_5.svg)" height="100" alt="Acquia Certified Drupal 9 Site Builder" />
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imhamad&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imhamad" />
+</p>
+
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
 <p align="center">
