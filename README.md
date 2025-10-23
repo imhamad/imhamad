@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamad</h1>
+<h1 align="center">Hamad</h1>
 <h3 align="center">Front End Engineer | SCSS | Tailwind | ReactJS | Acquia Certified Drupal 8 & 9 Site Builder</h3>
 
 <p align="left">
