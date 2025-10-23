@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-    <img src="https://dev.acquia.com/sites/default/files/2024-05/Acquia%20Certification%20Badge_Drupal%20Site%20Builder_Drupal%208%20%281%29.svg" height="100" alt="Acquia Certified Drupal 8 Site Builder" />
-  <img src="https://dev.acquia.com/sites/default/files/images/Acquia%252520Certification%252520Badge_Drupal%252520Site%252520Builder_Drupal%2525209_0_5.svg" height="100" alt="Acquia Certified Drupal 9 Site Builder" />
+    <img src="https://www.drupal.org/files/D8SB_0.png" height="100" alt="Acquia Certified Drupal 8 Site Builder" />
+  <img src="https://www.drupal.org/files/ds9_sb.png" height="100" alt="Acquia Certified Drupal 9 Site Builder" />
 
 </p>
 
