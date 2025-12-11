@@ -2,15 +2,15 @@
 <h3 align="center">Front End Engineer | SCSS | Tailwind | ReactJS | Acquia Certified Drupal 8 & 9 Site Builder</h3>
 
 <p align="left">
-  I'm Hamad — a Front‑End Engineer crafting clean, responsive interfaces with a focus on performance and accessibility. Skilled in SCSS, TailwindCSS, Bootstrap, React, and Vue.js.
+  I'm Hamad — a Front-End Engineer crafting clean, responsive interfaces with a focus on performance and accessibility. Skilled in SCSS, TailwindCSS, Bootstrap, React, and Vue.js.
 </p>
 
 <p align="left">
-  As an <strong>Acquia Certified Drupal 8 & 9 Site Builder</strong>, I architect content‑rich sites that are scalable, maintainable, and smartly optimized for real users.
+  As an <strong>Acquia Certified Drupal 8 & 9 Site Builder</strong>, I architect content-rich sites that are scalable, maintainable, and smartly optimized for real users.
 </p>
 
 <p align="left">
-  I excel at leading cross‑functional teams through full project lifecycles—from MVP ideation, agile development, to polished delivery—while mentoring peers and maintaining clear, collaborative environments.
+  I excel at leading cross-functional teams through full project lifecycles—from MVP ideation, agile development, to polished delivery—while mentoring peers and maintaining clear, collaborative environments.
 </p>
 
 <p align="center">
@@ -20,6 +20,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align="center">
+  <!-- Make sure 'imhamad' is your actual GitHub username -->
   <img src="https://github-readme-stats.vercel.app/api?username=imhamad&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
 </p>
 <p align="center">
@@ -36,15 +37,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/imhamad" target="_blank">
+  <a href="https://www.linkedin.com/in/hamadknows" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
   </a>
-  <a href="mailto:hamad@netchainmedia.com" target="_blank">
+  <a href="mailto:hamad.coder@outlook.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail"/>
   </a>
-  <a href="https://twitter.com/imhamad__" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" alt="Twitter"/>
+  <a href="https://x.com/hamadknow" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/X-0F1419?style=for-the-badge&logo=x&logoColor=white" height="30" alt="X (Twitter)"/>
+  </a>
+  <a href="https://instagram.com/hamadknow" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram"/>
+  </a>
+  <a href="https://facebook.com/hamadknows" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30" alt="Facebook"/>
+  </a>
+  <a href="https://medium.com/@imhamad" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="30" alt="Medium"/>
   </a>
 </p>
-
----
