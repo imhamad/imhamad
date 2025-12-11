@@ -9,10 +9,6 @@
   As an <strong>Acquia Certified Drupal 8 & 9 Site Builder</strong>, I architect content-rich sites that are scalable, maintainable, and smartly optimized for real users.
 </p>
 
-<p align="left">
-  I excel at leading cross-functional teams through full project lifecycles—from MVP ideation, agile development, to polished delivery—while mentoring peers and maintaining clear, collaborative environments.
-</p>
-
 <p align="center">
   <img src="https://www.drupal.org/files/D8SB_0.png" height="100" alt="Acquia Certified Drupal 8 Site Builder" />
   <img src="https://www.drupal.org/files/ds9_sb.png" height="100" alt="Acquia Certified Drupal 9 Site Builder" />
@@ -20,11 +16,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align="center">
-  <!-- Make sure 'imhamad' is your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=imhamad&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
+  <!-- direct github-readme-stats URLs (no camo) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=imhamad&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhamad&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhamad&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=imhamad&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies" />
@@ -32,7 +28,7 @@
 
 <h2 align="center">💬 Profile Views</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imhamad&label=PROFILE+VIEWS&color=58A6FF&style=flat-square" alt="View Counter" />
+  <img src="https://komarev.com/ghpvc/?username=imhamad&label=PROFILE+VIEWS&style=flat-square" alt="View Counter" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -41,10 +37,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
   </a>
   <a href="mailto:hamad.coder@outlook.com" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email"/>
   </a>
   <a href="https://x.com/hamadknow" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/X-0F1419?style=for-the-badge&logo=x&logoColor=white" height="30" alt="X (Twitter)"/>
+    <img src="https://img.shields.io/badge/X-0F1419?style=for-the-badge&logo=x&logoColor=white" height="30" alt="X"/>
   </a>
   <a href="https://instagram.com/hamadknow" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram"/>
