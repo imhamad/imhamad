@@ -22,15 +22,6 @@
   <img src="https://www.drupal.org/files/ds9_sb.png" height="120" alt="Acquia Certified Drupal 9 Site Builder" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hamadknows"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=28 alt="LinkedIn"></a>
-  <a href="mailto:hamad.coder@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=28 alt="Email"></a>
-  <a href="https://x.com/hamadknow"><img src="https://img.shields.io/badge/X-0F1419?style=for-the-badge&logo=x&logoColor=white" height=28 alt="X"></a>
-  <a href="https://instagram.com/hamadknow"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=28 alt="Instagram"></a>
-  <a href="https://facebook.com/hamadknows"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" height=28 alt="Facebook"></a>
-  <a href="https://medium.com/@imhamad"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height=28 alt="Medium"></a>
-</p>
-
 <!-- Languages & Tools -->
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
 <p align="center">
@@ -53,11 +44,6 @@
 <h2 align="center">Stats</h2>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imhamad&theme=radical" alt="Hamad GitHub Streak" />
-</div>
-
-
-<div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imhamad&theme=radical" alt="Hamad GitHub Achievements" />
 </div>
 
@@ -67,4 +53,13 @@
   <a href="https://github.com/imHamad" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/imHamad?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge"/>
   </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hamadknows"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=28 alt="LinkedIn"></a>
+  <a href="mailto:hamad.coder@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=28 alt="Email"></a>
+  <a href="https://x.com/hamadknow"><img src="https://img.shields.io/badge/X-0F1419?style=for-the-badge&logo=x&logoColor=white" height=28 alt="X"></a>
+  <a href="https://instagram.com/hamadknow"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=28 alt="Instagram"></a>
+  <a href="https://facebook.com/hamadknows"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" height=28 alt="Facebook"></a>
+  <a href="https://medium.com/@imhamad"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height=28 alt="Medium"></a>
 </p>
