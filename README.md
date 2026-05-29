@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <h1>Hi 👋 I'm Hamad — Front-End Engineer</h1>
+  <h1>Hi 👋 I'm Hamad, Front-End Engineer</h1>
   <p>SCSS • Tailwind • React • Acquia Certified Drupal 8 & 9 Site Builder</p>
 </div>
 
