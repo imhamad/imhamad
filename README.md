@@ -5,11 +5,11 @@
   <img src="assets/hamad-logo-light.svg" width="290" alt="Hamad — Tech-Agnostic">
 </picture>
 
-### Technical Lead &nbsp;·&nbsp; Drupal &amp; WordPress Engineer
+### Lead Web Developer &nbsp;·&nbsp; AI Workflows
 
 **Regulated pharma and healthcare platforms** &nbsp;·&nbsp; London, United Kingdom
 
-<a href="https://catch.hamadhere.de"><img src="https://img.shields.io/badge/Website-6B21A8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a> <a href="https://www.linkedin.com/in/hamadknows"><img src="https://img.shields.io/badge/LinkedIn-6B21A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.drupal.org/u/hamadknows"><img src="https://img.shields.io/badge/Drupal.org-6B21A8?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal.org"></a> <a href="mailto:hamad.coder@outlook.com"><img src="https://img.shields.io/badge/Email-6B21A8?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
+<a href="https://hamadhere.de"><img src="https://img.shields.io/badge/Website-6B21A8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a> <a href="https://www.linkedin.com/in/hamadknows"><img src="https://img.shields.io/badge/LinkedIn-6B21A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.drupal.org/u/hamadknows"><img src="https://img.shields.io/badge/Drupal.org-6B21A8?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal.org"></a> <a href="mailto:ciao@hamadhere.de"><img src="https://img.shields.io/badge/Email-6B21A8?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
 
 </div>
 
@@ -30,8 +30,8 @@ contributing to Laaha and eRefer: two platforms built to reach women and girls i
 under-resourced communities.
 
 More recently I have been building with the Claude API, the Model Context Protocol, and agent
-tooling, and writing about what actually survives contact with a regulated environment over at
-**[catch.hamadhere.de](https://catch.hamadhere.de)**.
+tooling, and writing about what actually survives contact with a regulated environment.
+More at **[hamadhere.de](https://hamadhere.de)**.
 
 <br>
 
@@ -126,6 +126,6 @@ tooling, and writing about what actually survives contact with a regulated envir
 <div align="center">
 
 <sub>Available for work in pharma, healthcare, and regulated digital delivery<br>
-<b><a href="https://catch.hamadhere.de">catch.hamadhere.de</a></b></sub>
+<b><a href="https://hamadhere.de">hamadhere.de</a></b></sub>
 
 </div>
