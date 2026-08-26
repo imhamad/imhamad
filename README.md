@@ -22,9 +22,10 @@ clients, where a missed compliance detail is a regulatory problem rather than a 
 that work runs on Drupal and WordPress, and most of it has to satisfy the ABPI Code of
 Practice, PMCPA review, GDPR, and WCAG 2.1 AA before it is allowed to ship.
 
-I have been with **Digital Dynamite** since 2019, moving from associate developer to leading
-development on our most recent platforms, where I own architecture decisions, run front-end
-code review, manage CI/CD, and mentor the junior developers on the team.
+I have been with **Digital Dynamite** since 2019, moving from Associate Developer to leading
+development on our most recent platforms. I own technical decisions, run code reviews, write
+unit tests, handle platform integrations, and manage CI/CD, working closely with the team lead
+and senior stakeholders and helping shape the workflows the team delivers against.
 
 Alongside that I served as a volunteer **Drupal engineer with UNICEF** through the UN
 Volunteers programme, contributing to Laaha and eRefer, two platforms built to reach women
