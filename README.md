@@ -102,6 +102,15 @@ More at **[hamadhere.de](https://hamadhere.de)**.
 
 ## Development Metrics
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Development%20since%202019-13%2C440%20hrs-6B21A8?style=for-the-badge&labelColor=270066" alt="Development since 2019: 13,440 hours"> <img src="https://img.shields.io/badge/AI%20development%20in%20365%20days-200%2B%20hrs-6B21A8?style=for-the-badge&labelColor=270066" alt="AI development in the last 365 days: 200+ hours">
+
+<sub>Seven years full time with Digital Dynamite, counted at 40 hours a week. Figures above are my own estimate.<br>
+Everything below this line is measured automatically by WakaTime.</sub>
+
+</div>
+
 <!--START_SECTION:waka-->
 
 <div align="center"><sub>Populated automatically from WakaTime once the <b>Development Metrics</b> workflow runs.<br>
