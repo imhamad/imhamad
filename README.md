@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hamad-logo-dark.svg">
-  <img src="assets/hamad-logo-light.svg" width="290" alt="Hamad, Tech-Agnostic">
+  <img src="assets/hamad-logo-light.svg" width="218" alt="Hamad, Tech-Agnostic">
 </picture>
 
 ### Lead Web Developer &nbsp;·&nbsp; AI Workflows
