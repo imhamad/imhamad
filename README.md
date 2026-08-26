@@ -37,60 +37,39 @@ tooling, and writing about what actually survives contact with a regulated envir
 
 ## Certifications
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### Web &amp; Drupal
-
 <div align="center">
 
-<img src="https://www.drupal.org/files/D8SB_0.png" height="104" alt="Acquia Certified Site Builder — Drupal 8"> <img src="https://www.drupal.org/files/ds9_sb.png" height="104" alt="Acquia Certified Site Builder — Drupal 9">
+<sub><b>WEB &amp; DRUPAL</b></sub>
 
-**Acquia Certified Site Builder**
+<img src="https://www.drupal.org/files/D8SB_0.png" height="108" alt="Acquia Certified Site Builder — Drupal 8"> <img src="https://www.drupal.org/files/ds9_sb.png" height="108" alt="Acquia Certified Site Builder — Drupal 9">
 
-Drupal 8 &nbsp;·&nbsp; 2019 &nbsp;&nbsp; | &nbsp;&nbsp; Drupal 9 &nbsp;·&nbsp; 2021
+<b>Acquia Certified Site Builder</b> &nbsp;·&nbsp; Drupal 8 (2019) and Drupal 9 (2021)
 
-<sub>[Verify on the Acquia registry](https://certification.acquia.com/person/certified/hamad-khan)</sub>
+<sub><a href="https://certification.acquia.com/person/certified/hamad-khan">Verify on the Acquia registry</a></sub>
 
-</div>
+&nbsp;
 
-</td>
-<td width="50%" valign="top">
-
-#### Pharma &amp; Life Sciences
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ABPI%20Qualified-270066?style=for-the-badge" alt="ABPI Qualified">
-
-<sub>The Association of the British Pharmaceutical Industry &nbsp;·&nbsp; 2026</sub>
-
-<img src="https://img.shields.io/badge/Vault%20PromoMats-6B21A8?style=flat-square" alt="Veeva Vault PromoMats Review and Approval"> <img src="https://img.shields.io/badge/Approved%20Email%20·%20Business-6B21A8?style=flat-square" alt="Veeva Approved Email Business"> <img src="https://img.shields.io/badge/Approved%20Email%20·%20Technical-6B21A8?style=flat-square" alt="Veeva Approved Email Technical">
-
-<sub>Veeva Systems &nbsp;·&nbsp; 2021</sub>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-#### AI &amp; Agents
-
-<div align="center">
+<sub><b>AI &amp; AGENTS</b></sub>
 
 <a href="https://verify.skilljar.com/c/3c26tub8hubu"><img src="https://img.shields.io/badge/Claude%20101-270066?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude 101"></a> <a href="https://verify.skilljar.com/c/8v7momgb62ga"><img src="https://img.shields.io/badge/Building%20with%20the%20Claude%20API-270066?style=for-the-badge&logo=anthropic&logoColor=white" alt="Building with the Claude API"></a> <a href="https://verify.skilljar.com/c/62ekomz4gjaq"><img src="https://img.shields.io/badge/Model%20Context%20Protocol-270066?style=for-the-badge&logo=anthropic&logoColor=white" alt="Introduction to Model Context Protocol"></a>
 
 <a href="https://verify.skilljar.com/c/cquu3hqajcrs"><img src="https://img.shields.io/badge/Claude%20Code%20in%20Action-6B21A8?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code in Action"></a> <a href="https://verify.skilljar.com/c/t66mt4t6okg5"><img src="https://img.shields.io/badge/Agent%20Skills-6B21A8?style=for-the-badge&logo=anthropic&logoColor=white" alt="Introduction to Agent Skills"></a> <a href="https://verify.skilljar.com/c/v33z3d8nftmp"><img src="https://img.shields.io/badge/Claude%20Cowork-6B21A8?style=for-the-badge&logo=anthropic&logoColor=white" alt="Introduction to Claude Cowork"></a>
 
-<sub>Six certificates issued by <b>Anthropic</b> &nbsp;·&nbsp; every badge links to its verification page</sub>
+<sub>Six certificates from <b>Anthropic</b> &nbsp;·&nbsp; every badge links to its verification page</sub>
 
-</div>
+&nbsp;
 
-#### Sustainable Technology
+<sub><b>PHARMA &amp; LIFE SCIENCES</b></sub>
 
-<div align="center">
+<img src="https://img.shields.io/badge/ABPI%20Qualified-270066?style=for-the-badge" alt="ABPI Qualified">
+
+<img src="https://img.shields.io/badge/Vault%20PromoMats-6B21A8?style=for-the-badge" alt="Veeva Vault PromoMats Review and Approval"> <img src="https://img.shields.io/badge/Approved%20Email%20·%20Business-6B21A8?style=for-the-badge" alt="Veeva Approved Email Business"> <img src="https://img.shields.io/badge/Approved%20Email%20·%20Technical-6B21A8?style=for-the-badge" alt="Veeva Approved Email Technical">
+
+<sub>The Association of the British Pharmaceutical Industry (2026) &nbsp;·&nbsp; Veeva Systems (2021)</sub>
+
+&nbsp;
+
+<sub><b>SUSTAINABLE TECHNOLOGY</b></sub>
 
 <img src="https://img.shields.io/badge/Green%20Software%20for%20Practitioners-270066?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="Green Software for Practitioners — The Linux Foundation"> <img src="https://img.shields.io/badge/Digital%20Transformation%20for%20Sustainable%20Development-270066?style=for-the-badge&logo=unitednations&logoColor=white" alt="Digital Transformation for Sustainable Development — UNSSC">
 
