@@ -1,0 +1,112 @@
+name: Development Metrics
+
+on:
+  schedule:
+    # 05:00 UTC daily. GitHub's scheduler is best-effort and can run late.
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    name: Refresh WakaTime metrics
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      # Writes everything between the START_SECTION:waka / END_SECTION:waka
+      # markers in README.md, then commits and pushes on its own.
+      - name: Generate metrics
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+          # --- Sections that are ON -------------------------------------
+          SHOW_TOTAL_CODE_TIME: "True"        # Code Time badge
+          SHOW_AI_CODE_TIME: "True"           # AI Code Time badge
+          SHOW_AI_CODING: "True"              # AI Coding This Week block
+          SHOW_COMMIT: "True"                 # "I'm an Early Bird / Night Owl"
+          SHOW_DAYS_OF_WEEK: "True"           # "I'm Most Productive on ..."
+          SHOW_TIMEZONE: "True"               # Timezone line (from WakaTime profile)
+          SHOW_LANGUAGE: "True"               # Weekly language split
+          SHOW_EDITORS: "True"                # Weekly editor split
+          SHOW_OS: "True"                     # Weekly OS split
+          SHOW_LANGUAGE_PER_REPO: "True"      # "I Mostly Code in ..."
+          SHOW_UPDATED_DATE: "True"
+
+          # --- Sections that are OFF ------------------------------------
+          # Project names come straight from WakaTime and would publish
+          # client and repo names. Keep this off.
+          SHOW_PROJECTS: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "False"            # Replaced by the hand-written About section
+          SHOW_LOC_CHART: "False"             # Commits a chart asset into the repo
+          # Counts additions/deletions across every repo. Accurate but slow
+          # on a large account; flip to "True" if you want the lines-of-code
+          # badge and can tolerate a longer run.
+          SHOW_LINES_OF_CODE: "False"
+
+          # --- Presentation ---------------------------------------------
+          # BAR_STYLE must stay "text". The action also supports "svg", but
+          # GitHub's markdown sanitiser strips inline <svg> from READMEs, so
+          # the SVG mode renders as stray unformatted text on a profile page.
+          BAR_STYLE: "text"
+          BADGE_STYLE: "for-the-badge"
+          UPDATED_DATE_FORMAT: "%d %B %Y"
+          COMMIT_MESSAGE: "chore(metrics): refresh development metrics"
+
+      # The action hardcodes every badge colour to "blue". This repaints them
+      # in the brand palette. It runs as a separate commit because the action
+      # pushes from its own internal clone, not from this workspace.
+      - name: Repaint badges in brand colours
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash
+
+          python3 - <<'PY'
+          import re, pathlib, sys
+
+          BRAND, LABEL = "6B21A8", "270066"
+          START, END = "<!--START_SECTION:waka-->", "<!--END_SECTION:waka-->"
+
+          path = pathlib.Path("README.md")
+          text = original = path.read_text(encoding="utf-8")
+
+          if START not in text or END not in text:
+              sys.exit(f"Markers not found in README.md — expected {START} ... {END}")
+
+          head, rest = text.split(START, 1)
+          body, tail = rest.split(END, 1)
+
+          # Serve badges over https so GitHub's image proxy fetches them cleanly.
+          body = body.replace("http://img.shields.io", "https://img.shields.io")
+
+          # -blue?style=... -> brand fill plus a darker label side.
+          body = re.sub(
+              r"-blue\?style=([a-z-]+)",
+              lambda m: f"-{BRAND}?style={m.group(1)}&labelColor={LABEL}",
+              body,
+          )
+
+          text = head + START + body + END + tail
+          if text != original:
+              path.write_text(text, encoding="utf-8")
+              print("Repainted badges.")
+          else:
+              print("No badge changes needed.")
+          PY
+
+          if [ -n "$(git status --porcelain README.md)" ]; then
+            git add README.md
+            git commit -m "style(metrics): repaint badges in brand colours"
+            git push
+          else
+            echo "Nothing to commit."
+          fi
