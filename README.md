@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hamad-logo-dark.svg">
-  <img src="assets/hamad-logo-light.svg" width="290" alt="Hamad — Tech-Agnostic">
+  <img src="assets/hamad-logo-light.svg" width="290" alt="Hamad, Tech-Agnostic">
 </picture>
 
 ### Lead Web Developer &nbsp;·&nbsp; AI Workflows
@@ -23,11 +23,12 @@ that work runs on Drupal and WordPress, and most of it has to satisfy the ABPI C
 Practice, PMCPA review, GDPR, and WCAG 2.1 AA before it is allowed to ship.
 
 I have been with **Digital Dynamite** since 2019, moving from associate developer to leading
-development on our most recent platforms — owning architecture decisions, running front-end
-code review, managing CI/CD, and mentoring the junior developers on the team. Alongside that
-I served as a volunteer **Drupal engineer with UNICEF** through the UN Volunteers programme,
-contributing to Laaha and eRefer: two platforms built to reach women and girls in
-under-resourced communities.
+development on our most recent platforms, where I own architecture decisions, run front-end
+code review, manage CI/CD, and mentor the junior developers on the team.
+
+Alongside that I served as a volunteer **Drupal engineer with UNICEF** through the UN
+Volunteers programme, contributing to Laaha and eRefer, two platforms built to reach women
+and girls in under-resourced communities.
 
 More recently I have been building with the Claude API, the Model Context Protocol, and agent
 tooling, and writing about what actually survives contact with a regulated environment.
@@ -41,7 +42,7 @@ More at **[hamadhere.de](https://hamadhere.de)**.
 
 <sub><b>WEB &amp; DRUPAL</b></sub>
 
-<img src="https://www.drupal.org/files/D8SB_0.png" height="108" alt="Acquia Certified Site Builder — Drupal 8"> <img src="https://www.drupal.org/files/ds9_sb.png" height="108" alt="Acquia Certified Site Builder — Drupal 9">
+<img src="https://www.drupal.org/files/D8SB_0.png" height="108" alt="Acquia Certified Site Builder, Drupal 8"> <img src="https://www.drupal.org/files/ds9_sb.png" height="108" alt="Acquia Certified Site Builder, Drupal 9">
 
 <b>Acquia Certified Site Builder</b> &nbsp;·&nbsp; Drupal 8 (2019) and Drupal 9 (2021)
 
@@ -71,7 +72,7 @@ More at **[hamadhere.de](https://hamadhere.de)**.
 
 <sub><b>SUSTAINABLE TECHNOLOGY</b></sub>
 
-<img src="https://img.shields.io/badge/Green%20Software%20for%20Practitioners-270066?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="Green Software for Practitioners — The Linux Foundation"> <img src="https://img.shields.io/badge/Digital%20Transformation%20for%20Sustainable%20Development-270066?style=for-the-badge&logo=unitednations&logoColor=white" alt="Digital Transformation for Sustainable Development — UNSSC">
+<img src="https://img.shields.io/badge/Green%20Software%20for%20Practitioners-270066?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="Green Software for Practitioners, The Linux Foundation"> <img src="https://img.shields.io/badge/Digital%20Transformation%20for%20Sustainable%20Development-270066?style=for-the-badge&logo=unitednations&logoColor=white" alt="Digital Transformation for Sustainable Development, UNSSC">
 
 <sub>The Linux Foundation &nbsp;·&nbsp; United Nations System Staff College &nbsp;·&nbsp; 2024</sub>
 
@@ -89,7 +90,7 @@ More at **[hamadhere.de](https://hamadhere.de)**.
 
 <sub><b>FRONT-END</b></sub>
 
-<img src="https://img.shields.io/badge/JavaScript-6B21A8?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/React-6B21A8?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Vue.js-6B21A8?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"> <img src="https://img.shields.io/badge/Tailwind%20CSS-6B21A8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Sass-6B21A8?style=flat-square&logo=sass&logoColor=white" alt="Sass"> <img src="https://img.shields.io/badge/GSAP-6B21A8?style=flat-square&logo=greensock&logoColor=white" alt="GSAP">
+<img src="https://img.shields.io/badge/JavaScript-6B21A8?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/React-6B21A8?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Next.js-6B21A8?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Vue.js-6B21A8?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"> <img src="https://img.shields.io/badge/Tailwind%20CSS-6B21A8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Sass-6B21A8?style=flat-square&logo=sass&logoColor=white" alt="Sass"> <img src="https://img.shields.io/badge/GSAP-6B21A8?style=flat-square&logo=greensock&logoColor=white" alt="GSAP">
 
 <sub><b>PLATFORM &amp; TOOLING</b></sub>
 
@@ -103,7 +104,9 @@ More at **[hamadhere.de](https://hamadhere.de)**.
 
 <!--START_SECTION:waka-->
 
-<div align="center"><sub>Populated automatically from WakaTime once the <b>Development Metrics</b> workflow runs.</sub></div>
+<div align="center"><sub>Populated automatically from WakaTime once the <b>Development Metrics</b> workflow runs.<br>
+Code Time and AI Code Time cover all tracked history. Commit rhythm covers every year on GitHub.<br>
+The language, editor and OS split is a rolling seven days.</sub></div>
 
 <!--END_SECTION:waka-->
 
