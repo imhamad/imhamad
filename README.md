@@ -131,11 +131,11 @@ The language, editor and OS split is a rolling seven days.</sub></div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imhamad&bg_color=00000000&title_color=533385&text_color=7D8590&icon_color=533385&chart_color=533385&border_color=A78BFA" alt="Profile summary">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imhamad&bg_color=00000000&title_color=8761C2&text_color=7D8590&icon_color=8761C2&chart_color=533385&border_color=A78BFA" alt="Profile summary">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imhamad&bg_color=00000000&title_color=533385&text_color=7D8590&icon_color=533385&chart_color=533385&border_color=A78BFA" alt="Repositories per language" width="49%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imhamad&bg_color=00000000&title_color=533385&text_color=7D8590&icon_color=533385&chart_color=533385&border_color=A78BFA" alt="Most committed language" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imhamad&bg_color=00000000&title_color=8761C2&text_color=7D8590&icon_color=8761C2&chart_color=533385&border_color=A78BFA" alt="Repositories per language" width="49%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imhamad&bg_color=00000000&title_color=8761C2&text_color=7D8590&icon_color=8761C2&chart_color=533385&border_color=A78BFA" alt="Most committed language" width="49%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imhamad&bg_color=00000000&title_color=533385&text_color=7D8590&icon_color=533385&chart_color=533385&border_color=A78BFA" alt="Stats" width="49%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imhamad&utcOffset=1&bg_color=00000000&title_color=533385&text_color=7D8590&icon_color=533385&chart_color=533385&border_color=A78BFA" alt="Productive time" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imhamad&bg_color=00000000&title_color=8761C2&text_color=7D8590&icon_color=8761C2&chart_color=533385&border_color=A78BFA" alt="Stats" width="49%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imhamad&utcOffset=1&bg_color=00000000&title_color=8761C2&text_color=7D8590&icon_color=8761C2&chart_color=533385&border_color=A78BFA" alt="Productive time" width="49%">
 
 </div>
 
