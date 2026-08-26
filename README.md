@@ -96,6 +96,10 @@ More at **[hamadhere.de](https://hamadhere.de)**.
 
 <img src="https://img.shields.io/badge/Docker-4A1A8A?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Git-4A1A8A?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub%20Actions-4A1A8A?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Figma-4A1A8A?style=flat-square&logo=figma&logoColor=white" alt="Figma">
 
+<sub><b>COMMUNICATION &amp; FILE SHARING</b></sub>
+
+<img src="https://img.shields.io/badge/Microsoft%20Teams-4A1A8A?style=flat-square" alt="Microsoft Teams"> <img src="https://img.shields.io/badge/SharePoint-4A1A8A?style=flat-square" alt="SharePoint">
+
 </div>
 
 <br>
@@ -125,11 +129,11 @@ The language, editor and OS split is a rolling seven days.</sub></div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imhamad&bg_color=00000000&title_color=7C3AED&text_color=8B5CF6&icon_color=6B21A8&chart_color=7C3AED&border_color=6B21A8" alt="Profile summary">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imhamad&bg_color=00000000&title_color=7C3AED&text_color=7D8590&icon_color=8B5CF6&chart_color=7C3AED&border_color=A78BFA" alt="Profile summary">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imhamad&bg_color=00000000&title_color=7C3AED&text_color=8B5CF6&icon_color=6B21A8&chart_color=7C3AED&border_color=6B21A8" alt="Repositories per language" width="49%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imhamad&bg_color=00000000&title_color=7C3AED&text_color=8B5CF6&icon_color=6B21A8&chart_color=7C3AED&border_color=6B21A8" alt="Most committed language" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imhamad&bg_color=00000000&title_color=7C3AED&text_color=7D8590&icon_color=8B5CF6&chart_color=7C3AED&border_color=A78BFA" alt="Repositories per language" width="49%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imhamad&bg_color=00000000&title_color=7C3AED&text_color=7D8590&icon_color=8B5CF6&chart_color=7C3AED&border_color=A78BFA" alt="Most committed language" width="49%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imhamad&bg_color=00000000&title_color=7C3AED&text_color=8B5CF6&icon_color=6B21A8&chart_color=7C3AED&border_color=6B21A8" alt="Stats" width="49%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imhamad&utcOffset=1&bg_color=00000000&title_color=7C3AED&text_color=8B5CF6&icon_color=6B21A8&chart_color=7C3AED&border_color=6B21A8" alt="Productive time" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imhamad&bg_color=00000000&title_color=7C3AED&text_color=7D8590&icon_color=8B5CF6&chart_color=7C3AED&border_color=A78BFA" alt="Stats" width="49%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imhamad&utcOffset=1&bg_color=00000000&title_color=7C3AED&text_color=7D8590&icon_color=8B5CF6&chart_color=7C3AED&border_color=A78BFA" alt="Productive time" width="49%">
 
 </div>
 
