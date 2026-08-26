@@ -137,7 +137,8 @@ The language, editor and OS split is a rolling seven days.</sub></div>
 
 <div align="center">
 
-<sub>Available for work in pharma, healthcare, and regulated digital delivery<br>
+<sub>Deep down in Pharma, Healthcare, and Regulated Industries.<br>
+Currently heads-down building tools that save time in day-to-day development.<br>
 <b><a href="https://hamadhere.de">hamadhere.de</a></b></sub>
 
 </div>
