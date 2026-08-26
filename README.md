@@ -9,7 +9,7 @@
 
 **Regulated pharma and healthcare platforms** &nbsp;·&nbsp; London, United Kingdom
 
-<a href="https://catch.hamadhere.de"><img src="https://img.shields.io/badge/Website-270066?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a> <a href="https://www.linkedin.com/in/hamadknows"><img src="https://img.shields.io/badge/LinkedIn-270066?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.drupal.org/u/hamadknows"><img src="https://img.shields.io/badge/Drupal.org-270066?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal.org"></a> <a href="mailto:hamad.coder@outlook.com"><img src="https://img.shields.io/badge/Email-270066?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
+<a href="https://catch.hamadhere.de"><img src="https://img.shields.io/badge/Website-6B21A8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a> <a href="https://www.linkedin.com/in/hamadknows"><img src="https://img.shields.io/badge/LinkedIn-6B21A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.drupal.org/u/hamadknows"><img src="https://img.shields.io/badge/Drupal.org-6B21A8?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal.org"></a> <a href="mailto:hamad.coder@outlook.com"><img src="https://img.shields.io/badge/Email-6B21A8?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
 
 </div>
 
