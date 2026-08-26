@@ -19,8 +19,9 @@
 
 I build and lead delivery on content-heavy web platforms for pharmaceutical and healthcare
 clients, where a missed compliance detail is a regulatory problem rather than a bug. Most of
-that work runs on Drupal and WordPress, and most of it has to satisfy the ABPI Code of
-Practice, PMCPA review, GDPR, and WCAG 2.1 AA before it is allowed to ship.
+that work runs on Drupal, WordPress, and Next.js with Payload CMS, and most of it has to
+satisfy the ABPI Code of Practice, PMCPA review, GDPR, and WCAG 2.1 AA before it is
+allowed to ship.
 
 I have been with **Digital Dynamite** since 2019, moving from Associate Developer to leading
 development on our most recent platforms. I own technical decisions, run code reviews, write
@@ -87,7 +88,7 @@ More at **[hamadhere.de](https://hamadhere.de)**.
 
 <sub><b>BACKEND &amp; CMS</b></sub>
 
-<img src="https://img.shields.io/badge/Drupal-270066?style=flat-square&logo=drupal&logoColor=white" alt="Drupal"> <img src="https://img.shields.io/badge/WordPress-270066?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"> <img src="https://img.shields.io/badge/PHP-270066?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/Laravel-270066?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/Composer-270066?style=flat-square&logo=composer&logoColor=white" alt="Composer"> <img src="https://img.shields.io/badge/MySQL-270066?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/Drupal-270066?style=flat-square&logo=drupal&logoColor=white" alt="Drupal"> <img src="https://img.shields.io/badge/WordPress-270066?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"> <img src="https://img.shields.io/badge/PHP-270066?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/Laravel-270066?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/Composer-270066?style=flat-square&logo=composer&logoColor=white" alt="Composer"> <img src="https://img.shields.io/badge/Payload%20CMS-270066?style=flat-square&logo=payloadcms&logoColor=white" alt="Payload CMS"> <img src="https://img.shields.io/badge/MySQL-270066?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
 
 <sub><b>FRONT-END</b></sub>
 
