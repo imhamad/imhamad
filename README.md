@@ -5,7 +5,7 @@
   <img src="assets/hamad-logo-light.svg" width="200" alt="Hamad, Tech-Agnostic">
 </picture>
 
-### Lead Web Developer &nbsp;·&nbsp; AI Workflows
+### Lead Web Developer &nbsp;·&nbsp; AI Workflows ;·&nbsp; Automating Project Flows 
 
 **Regulated pharma and healthcare platforms** &nbsp;·&nbsp; London, United Kingdom
 
