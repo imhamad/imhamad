@@ -17,7 +17,7 @@
 
 ## About
 
-I build and lead delivery on content-heavy web platforms for pharmaceutical and healthcare
+I build and lead delivery, on content-heavy web platforms for pharmaceutical and healthcare
 clients, where a missed compliance detail is a regulatory problem rather than a bug. Most of
 that work runs on Drupal, WordPress, and Next.js with Payload CMS, and most of it has to
 satisfy the ABPI Code of Practice, PMCPA review, GDPR, and WCAG 2.1 AA before it is
